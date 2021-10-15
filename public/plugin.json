@@ -1,0 +1,31 @@
+{
+    "main": "index.html",
+    "logo": "logo.png",
+    "platform": [
+        "win32",
+        "darwin",
+        "linux"
+    ],
+    "features": [
+        {
+            "code": "sql2struct",
+            "explain": "convert sql to golang struct",
+            "cmds": []
+        },
+        {
+            "code": "toml2struct",
+            "explain": "convert toml to golang struct",
+            "cmds": []
+        },
+        {
+            "code": "yaml2struct",
+            "explain": "convert yaml to golang struct",
+            "cmds": []
+        },
+        {
+            "code": "json2struct",
+            "explain": "convert json to golang struct",
+            "cmds": []
+        }
+    ]
+}
